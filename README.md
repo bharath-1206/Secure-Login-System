@@ -152,7 +152,7 @@ Bharath M
 Cybersecurity Engineering Student
 
 GitHub:
-https://github.com/bharath-1206⁠�
+https://github.com/bharath-1206/Secure-Login-System
 
 📌 Disclaimer
 This project is created for educational and authorized security-testing purposes.
